@@ -14,10 +14,9 @@
 #             - Push the new tag to the repo
 #
 
-# 🚨 GITHUB SECRETS REQUIRED:
-#         - GH_TOKEN: A GitHub token with write repo access.
-#           You can generate one from here: https://docs.github.com/en/enterprise-server@3.6/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
-#           make sure to add it to the repo secrets with the name GH_TOKEN
+# 🚨 GITHUB SECRETS:
+#         - GH_TOKEN (optional): Personal token with write repo access.
+#           If GH_TOKEN is not set, this workflow falls back to the default `github.token`.
 
 name: New App Version
 
@@ -40,17 +39,14 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN || github.token }}
     steps:
-      - name: 🔍 GH_TOKEN
-        if: env.GH_TOKEN == ''
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: echo "GH_TOKEN=${GITHUB_TOKEN}" >> $GITHUB_ENV
       - name: 📦 Checkout project repo
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ env.GH_TOKEN }}
 
       - name: 📝 Git User Setup
         run: |
