@@ -1,25 +1,25 @@
 <p align="center">
-    <img alt="React Native Template Obytes" src="https://user-images.githubusercontent.com/11137944/93101697-808bc580-f6a2-11ea-8ce3-482be6ca456a.png" width="200" />
+    <img alt="React Native Template ACT House" src="https://user-images.githubusercontent.com/11137944/93101697-808bc580-f6a2-11ea-8ce3-482be6ca456a.png" width="200" />
 
 </p>
 <h1 align="center">
-  React Native Template Obytes
+  React Native Template ACT House
 </h1>
 
-![expo](https://img.shields.io/github/package-json/dependency-version/obytes/react-native-template-obytes/expo?label=expo) ![GitHub Repo stars](https://img.shields.io/github/stars/obytes/react-native-template-obytes) ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/obytes/react-native-template-obytes) ![GitHub issues](https://img.shields.io/github/issues/obytes/react-native-template-obytes) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/obytes/react-native-template-obytes)
+![expo](https://img.shields.io/github/package-json/dependency-version/acthouse/react-native-template-acthouse/expo?label=expo) ![GitHub Repo stars](https://img.shields.io/github/stars/acthouse/react-native-template-acthouse) ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/acthouse/react-native-template-acthouse) ![GitHub issues](https://img.shields.io/github/issues/acthouse/react-native-template-acthouse) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/acthouse/react-native-template-acthouse)
 
 📱 A template for your next React Native project 🚀, Made with developer experience and performance first: Expo,TypeScript,tailwindcss, Husky, Lint-Staged, expo-router, react-query, react-hook-form, I18n.
 
 # 🚀 Quick start
 
 ```sh
-npx create-obytes-app@latest MyApp
+npx create-acthouse-app@latest MyApp
 
 ```
 
 # Overview
 
-As a team of experienced developers at Obytes Mobile Tribe, we have spent years refining our approach to building high-quality React Native applications. Our starter kit is based on the best practices and tools that we have found to be most effective in our own projects.
+As a team of experienced developers at ACT House Mobile Tribe, we have spent years refining our approach to building high-quality React Native applications. Our starter kit is based on the best practices and tools that we have found to be most effective in our own projects.
 
 This starter kit has been thoroughly tested and proven successful in multiple projects over the past four years. It is regularly used by our team on a daily basis and has helped us deliver great results for our clients.
 
@@ -61,15 +61,15 @@ When creating this starter kit, we had several guiding principles in mind::
 
 ## ✍️ Documentation
 
-- [Create new project ](https://starter.obytes.com/docs/getting-started/create-new-app)
-- [Rules and Conventions](https://starter.obytes.com/docs/getting-started/rules-and-convetions)
-- [Project structure](https://starter.obytes.com/docs/getting-started/project-structure)
-- [Environment vars and config](https://starter.obytes.com/docs/getting-started/environment-vars-config)
-- [UI and Theming](https://starter.obytes.com/docs/ui-and-theme/ui-theming)
-- [Components](https://starter.obytes.com/docs/ui-and-theme/components)
-- [Forms](https://starter.obytes.com/docs/ui-and-theme/Forms)
-- [Data fetching](https://starter.obytes.com/docs/guides/data-fetching)
-- [Contribute to starter](https://starter.obytes.com/docs/contribute)
+- [Create new project ](https://starter.acthouse.com/docs/getting-started/create-new-app)
+- [Rules and Conventions](https://starter.acthouse.com/docs/getting-started/rules-and-convetions)
+- [Project structure](https://starter.acthouse.com/docs/getting-started/project-structure)
+- [Environment vars and config](https://starter.acthouse.com/docs/getting-started/environment-vars-config)
+- [UI and Theming](https://starter.acthouse.com/docs/ui-and-theme/ui-theming)
+- [Components](https://starter.acthouse.com/docs/ui-and-theme/components)
+- [Forms](https://starter.acthouse.com/docs/ui-and-theme/Forms)
+- [Data fetching](https://starter.acthouse.com/docs/guides/data-fetching)
+- [Contribute to starter](https://starter.acthouse.com/docs/contribute)
 
 ## 😉 Why Expo?
 
@@ -119,9 +119,9 @@ We value the feedback and contributions of our users, and we encourage you to le
 
 ## Contributors
 
-This starter is maintained by [Obytes mobile tribe team](https://www.obytes.com/team) and we welcome new contributors to join us in improving it. If you are interested in getting involved in the project, please don't hesitate to open an issue or submit a pull request.
+This starter is maintained by [ACT House mobile tribe team](https://www.acthouse.com/team) and we welcome new contributors to join us in improving it. If you are interested in getting involved in the project, please don't hesitate to open an issue or submit a pull request.
 
-In addition to maintaining this starter kit, we are also available to work on custom projects and help you build your dream app. If you are looking for experienced and reliable developers to bring your app vision to life, please visit our website at [obytes.com/contact](https://www.obytes.com/contact) to get in touch with us. We would be happy to discuss your project in more detail and explore how we can help you achieve your goals.
+In addition to maintaining this starter kit, we are also available to work on custom projects and help you build your dream app. If you are looking for experienced and reliable developers to bring your app vision to life, please visit our website at [acthouse.com/contact](https://www.acthouse.com/contact) to get in touch with us. We would be happy to discuss your project in more detail and explore how we can help you achieve your goals.
 
 ## 🔥 How to contribute?
 
@@ -136,7 +136,7 @@ We value the input and contributions of our community and look forward to workin
 
 ## ❓ FAQ
 
-If you have any questions about the starter and want answers, please check out the [Discussions](https://github.com/obytes/react-native-template-obytes/discussions) page.
+If you have any questions about the starter and want answers, please check out the [Discussions](https://github.com/ACT-House-Engineering/panama/discussions) page.
 
 ## 🔖 License
 

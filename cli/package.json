@@ -1,18 +1,18 @@
 {
-  "name": "create-obytes-app",
+  "name": "create-acthouse-app",
   "version": "1.8.0",
-  "description": "Obytes expo starter cli",
-  "homepage": "https://github.com/obytes/react-native-template-obytes",
+  "description": "ACT House expo starter cli",
+  "homepage": "https://github.com/ACT-House-Engineering/panama",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/obytes/react-native-template-obytes.git"
+    "url": "git+https://github.com/ACT-House-Engineering/panama.git"
   },
   "main": "index.js",
   "scripts": {
     "start": "node ."
   },
   "bin": {
-    "create-obytes-app": "index.js"
+    "create-acthouse-app": "index.js"
   },
   "files": [
     "index.js",
@@ -33,6 +33,6 @@
     "react-native-boilerplate",
     "expo-boilerplate",
     "cli",
-    "obytes"
+    "acthouse"
   ]
 }

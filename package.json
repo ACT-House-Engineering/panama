@@ -1,11 +1,11 @@
 {
-  "name": "obytesapp",
+  "name": "acthouseapp",
   "version": "9.0.0",
   "private": true,
   "packageManager": "pnpm@10.12.3",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/obytes/react-native-template-obytes.git"
+    "url": "git+https://github.com/ACT-House-Engineering/panama.git"
   },
   "main": "expo-router/entry",
   "scripts": {
@@ -44,7 +44,7 @@
     "test:ci": "pnpm run test --coverage",
     "test:watch": "pnpm run test --watch",
     "install-maestro": "curl -Ls 'https://get.maestro.mobile.dev' | bash",
-    "e2e-test": "maestro test .maestro/ -e APP_ID=com.obytes.development"
+    "e2e-test": "maestro test .maestro/ -e APP_ID=com.acthouse.development"
   },
   "dependencies": {
     "@expo-google-fonts/inter": "^0.4.2",

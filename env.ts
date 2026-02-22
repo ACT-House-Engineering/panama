@@ -21,24 +21,24 @@ const EXPO_PUBLIC_APP_ENV = (process.env.EXPO_PUBLIC_APP_ENV
   ?? 'development') as z.infer<typeof envSchema>['EXPO_PUBLIC_APP_ENV'];
 
 const BUNDLE_IDS = {
-  development: 'com.obytes.development',
-  preview: 'com.obytes.preview',
-  production: 'com.obytes',
+  development: 'com.acthouse.development',
+  preview: 'com.acthouse.preview',
+  production: 'com.acthouse',
 } as const;
 
 const PACKAGES = {
-  development: 'com.obytes.development',
-  preview: 'com.obytes.preview',
-  production: 'com.obytes',
+  development: 'com.acthouse.development',
+  preview: 'com.acthouse.preview',
+  production: 'com.acthouse',
 } as const;
 
 const SCHEMES = {
-  development: 'obytesApp',
-  preview: 'obytesApp.preview',
-  production: 'obytesApp',
+  development: 'acthouseApp',
+  preview: 'acthouseApp.preview',
+  production: 'acthouseApp',
 } as const;
 
-const NAME = 'ObytesApp';
+const NAME = 'ActHouseApp';
 
 // Check if strict validation is required (before prebuild)
 const STRICT_ENV_VALIDATION = process.env.STRICT_ENV_VALIDATION === '1';

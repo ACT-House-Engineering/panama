@@ -1,6 +1,6 @@
 ---
 name: react-native-feature-builder
-description: Build and refactor features in this Obytes Expo template while following repository conventions for feature-oriented structure, Expo Router re-export routes, TanStack Form + Zod, React Query kit hooks, MMKV-backed persistence, and absolute imports. Use when implementing screens, forms, API hooks, feature stores, or route wiring.
+description: Build and refactor features in this ACT House Expo template while following repository conventions for feature-oriented structure, Expo Router re-export routes, TanStack Form + Zod, React Query kit hooks, MMKV-backed persistence, and absolute imports. Use when implementing screens, forms, API hooks, feature stores, or route wiring.
 ---
 
 # React Native Feature Builder

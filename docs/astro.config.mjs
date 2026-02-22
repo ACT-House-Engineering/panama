@@ -2,14 +2,14 @@ import { defineConfig, passthroughImageService } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import starlightLlmsTxt from 'starlight-llms-txt';
 
-const site = 'https://starter.obytes.com/';
+const site = 'https://starter.acthouse.com/';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://starter.obytes.com/',
+  site: 'https://starter.acthouse.com/',
   integrations: [
     starlight({
-      title: 'Obytes Starter | React Native Template',
+      title: 'ACT House Starter | React Native Template',
       plugins: [starlightLlmsTxt()],
       description: `Your All-in-One Solution for Building Outstanding React Native/Expo Apps. From editor setup to store submission, we've got you covered!`,
       expressiveCode: {
@@ -24,7 +24,7 @@ export default defineConfig({
         LastUpdated: './src/components/LastUpdated.astro',
       },
       social: [
-        { icon: 'github', label: 'GitHub', href: 'https://github.com/obytes/react-native-template-obytes' },
+        { icon: 'github', label: 'GitHub', href: 'https://github.com/ACT-House-Engineering/panama' },
       ],
       head: [
         {

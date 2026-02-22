@@ -1,6 +1,6 @@
 # Panama (React Native / Expo)
 
-> This project is based on the [Obytes starter](https://starter.obytes.com).
+> This project is based on the [ACT House starter](https://starter.acthouse.com).
 
 ## Requirements
 
@@ -74,11 +74,11 @@ pnpm check-all
 
 ## Documentation
 
-- [Rules and Conventions](https://starter.obytes.com/getting-started/rules-and-conventions/)
-- [Project Structure](https://starter.obytes.com/getting-started/project-structure)
-- [Environment Vars and Config](https://starter.obytes.com/getting-started/environment-vars-config)
-- [UI and Theming](https://starter.obytes.com/ui-and-theme/ui-theming)
-- [Components](https://starter.obytes.com/ui-and-theme/components)
-- [Forms](https://starter.obytes.com/ui-and-theme/forms)
-- [Data Fetching](https://starter.obytes.com/guides/data-fetching)
-- [Contribute to Starter](https://starter.obytes.com/how-to-contribute/)
+- [Rules and Conventions](https://starter.acthouse.com/getting-started/rules-and-conventions/)
+- [Project Structure](https://starter.acthouse.com/getting-started/project-structure)
+- [Environment Vars and Config](https://starter.acthouse.com/getting-started/environment-vars-config)
+- [UI and Theming](https://starter.acthouse.com/ui-and-theme/ui-theming)
+- [Components](https://starter.acthouse.com/ui-and-theme/components)
+- [Forms](https://starter.acthouse.com/ui-and-theme/forms)
+- [Data Fetching](https://starter.acthouse.com/guides/data-fetching)
+- [Contribute to Starter](https://starter.acthouse.com/how-to-contribute/)

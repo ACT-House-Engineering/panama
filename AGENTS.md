@@ -6,7 +6,7 @@
 
 ## Project Focus
 
-- Build Expo + React Native apps using the Obytes starter architecture.
+- Build Expo + React Native apps using the ACT House starter architecture.
 - Keep features small, testable, and easy for parallel coding agents to modify.
 
 ## Project Structure

@@ -1,12 +1,12 @@
 ---
 title: Create a new App
-description: Let's create a new React native project with obytes starter.
+description: Let's create a new React native project with acthouse starter.
 head:
   - tag: title
     content: Create a new App | React Native / Expo Starter
 ---
 
-Let's create a new React Native project with Obytes starter.
+Let's create a new React Native project with ACT House starter.
 
 ## Requirements
 
@@ -27,10 +27,10 @@ First make sure you have `pnpm` installed on your machine, if not you can instal
 npm install -g pnpm
 ```
 
-Start your project using `create-obytes-app` command:
+Start your project using `create-acthouse-app` command:
 
 ```bash
-npx create-obytes-app@latest MyApp
+npx create-acthouse-app@latest MyApp
 ```
 
 The command will create an expo app named `MyApp` and install all the dependencies added by the starter.
